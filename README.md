@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CloudOps**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/josemaria-thomas/</h3>
 <p align="left">
 </p>
 
